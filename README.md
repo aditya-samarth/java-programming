@@ -2,7 +2,7 @@
 
 ![Java Logo](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png)
 
-Welcome to my Java Programming repository! This repository is dedicated to practicing Java Programming, Data Structures and Algorithms (DSA). Here, I'll be sharing my journey of learning and honing my Java skills through coding exercises and projects.
+Welcome to my Java Programming repository! This repository is dedicated to practicing Java Programming, Data Structures and Algorithms (DSA). Here, I'll be sharing my journey of learning and practicing my Java skills through coding exercises and projects.
 
 ## Table of Contents
 
