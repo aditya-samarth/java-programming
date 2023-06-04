@@ -30,8 +30,6 @@ The **Algorithms** directory focuses on implementing and analyzing algorithms in
 
 ## Contributing
 
-Contributions to this repository are welcome! If you have suggestions, bug fixes, or would like to add new programs, data structures, or algorithms, please feel free to reach out to me at [your-email@example.com](mailto:adityasamarth5@gmail.com). 
+Contributions to this repository are welcome! If you have suggestions, bug fixes, or would like to add new programs, data structures, or algorithms, please feel free to reach out to me at [adityasamarth5@gmail.com](mailto:adityasamarth5@gmail.com). 
 
 Happy Coding!
-
-![Java Code](https://images.unsplash.com/photo-1526862527854-88b50c89c5d2)
