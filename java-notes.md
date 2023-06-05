@@ -1,7 +1,7 @@
 
-#Data Structures and Algorithms
+# Data Structures and Algorithms
 
-##Data Structures:
+## Data Structures:
 
 Arrays: A fixed-size collection of elements accessed using an index.
 Linked List: A dynamic data structure where elements are connected via pointers.
@@ -14,7 +14,7 @@ Heap: A complete binary tree where each parent node is either greater or smaller
 Graph: A collection of nodes (vertices) connected by edges.
 
 
-##Algorithms:
+## Algorithms:
 
 Searching Algorithms:
 
